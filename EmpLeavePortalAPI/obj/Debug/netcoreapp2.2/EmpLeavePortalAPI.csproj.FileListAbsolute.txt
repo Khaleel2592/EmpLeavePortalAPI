@@ -1,0 +1,14 @@
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\bin\Debug\netcoreapp2.2\EmpLeavePortalAPI.deps.json
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\bin\Debug\netcoreapp2.2\EmpLeavePortalAPI.runtimeconfig.json
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\bin\Debug\netcoreapp2.2\EmpLeavePortalAPI.runtimeconfig.dev.json
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\bin\Debug\netcoreapp2.2\EmpLeavePortalAPI.dll
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\bin\Debug\netcoreapp2.2\EmpLeavePortalAPI.pdb
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.csprojAssemblyReference.cache
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.csproj.CoreCompileInputs.cache
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.RazorAssemblyInfo.cache
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.RazorAssemblyInfo.cs
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.AssemblyInfoInputs.cache
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.AssemblyInfo.cs
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.RazorTargetAssemblyInfo.cache
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.dll
+E:\EmployeeLeavePortal\EmpLeavePortalAPI\EmpLeavePortalAPI\obj\Debug\netcoreapp2.2\EmpLeavePortalAPI.pdb
